@@ -1,7 +1,7 @@
-#Good ReadMe Generator
+# Good ReadMe Generator
 
 
-#About
+# About
 
 GIVEN a command-line application that accepts user input
 
@@ -29,7 +29,7 @@ WHEN I enter my email address
 
 THEN this is added to the section of the README entitled Questions.
 
-#Demo
+# Demo
 
 <iframe src="https://drive.google.com/file/d/1YhER6k_nuqbgw-GTASYk_OfJcXCOJjL-/preview" width="640" height="480"></iframe>
 
